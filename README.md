@@ -10,7 +10,7 @@ The project is divided into three parts: data modelling, data engineering, and d
 Inspect the CSV files, and then sketch an ERD of the tables.
 
 /EmployeeSQL/ERD_diagram.png
-![Employees_ERD](EmployeeSQL/employees_erd.png)
+![Employees_ERD](EmployeeSQL/ERD_diagram.png)
 
 ### Data Engineering
 Create tables in the database
